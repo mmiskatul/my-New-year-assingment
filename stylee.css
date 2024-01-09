@@ -64,3 +64,38 @@ body{
     height: 500px;
     display: block;
 }
+.midnight {
+    display: flex;
+    background-repeat: no-repeat;
+    width: 1320px;
+    margin-bottom: 50px;
+    background-image: url('../image/Vectorrr.png');
+    height: 600px;
+    border-radius: 16px;
+ 
+}
+.party {
+    margin: 60 px 30px ;
+}
+.party h2 {
+    color: #FFF;
+    font-size: 65px;
+    width: 640px;
+    font-weight: 900px;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+.party .join {
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;   
+}
+.party p {
+    color: white;
+    font-size: 18px;
+    width: 697px;
+    line-height: 30px;
+    font-weight: 400;
+  
+}
