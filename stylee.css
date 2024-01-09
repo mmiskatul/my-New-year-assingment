@@ -148,3 +148,68 @@ body{
     position: absolute;
     margin-left: 490px;
 }
+.sect1 h2{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+.sect1 h1 {
+    color: #070211 ;
+    text-transform: capitalize;
+    font-size: 48px;
+    font-weight: 900;
+}
+.sect1 {
+    display: flex;
+    width: 1600px;
+    background: #FFF;
+    gap: 5px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.OFFER h2 {
+    color: #F00;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 500;
+    font-family: Inter;
+
+}
+.OFFER h1 {
+    color: #070211;
+    text-transform: capitalize;
+    font-size: 48px;
+    font-weight: 900;
+}
+.sect1 p {
+    color: rgba(7, 2, 17, 0.60);
+    width: 393px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.div2 img {
+    width: 364.844px;
+    padding: 20px;
+    height: 364.844px;
+    border: 15px solid #F00;
+    border-radius: 364.844px;
+    border-radius: 463px;
+}
+.div3 {
+    margin-right: 60px;
+    padding-right: 60px;
+}
+.div3 h1 {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.div3 p {
+    color: rgba(7, 2, 17, 0.60);
+    width: 276px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
