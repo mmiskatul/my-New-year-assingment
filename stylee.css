@@ -37,3 +37,30 @@ body{
 .continer h1{
     padding-bottom: 200px;
 }
+.discount{
+    margin-bottom: 50px;
+}
+.discount p{
+    text-align: center;
+    color: #F00;
+    font-weight: 500;
+    font-style: normal;
+    line-height: normal;
+    font-size: 24px;
+}
+.discount h3 {
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    text-align: center;
+    line-height: normal;
+    font-weight: 700;
+}
+.discount .pic1 {
+    width: 802.9px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 500px;
+    display: block;
+}
